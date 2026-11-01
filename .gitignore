@@ -1,1 +1,10 @@
 .vs/
+.user
+.suo
+.rsuser
+
+bin/
+obj/
+
+.tmp
+.log

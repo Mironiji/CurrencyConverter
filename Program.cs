@@ -1,3 +1,5 @@
+using static CurrencyConverter.ConverterAPIService;
+
 namespace CurrencyConverter
 {
     internal static class Program
@@ -12,6 +14,7 @@ namespace CurrencyConverter
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+
         }
     }
 }
